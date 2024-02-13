@@ -18,13 +18,9 @@ I'm currently deepening my knowledge in **Networking**, **Ethical Hacking**, **S
 - Python for cybersecurity
 
 ### 🤝 Connect with me:
-- LinkedIn: [https://www.linkedin.com/in/shay-aviv-082a6828b/]
+- LinkedIn: https://www.linkedin.com/in/shay-aviv-082a6828b/
 
 ### 📈 GitHub Stats
 ![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayAviv&show_icons=true&theme=radical)
-
-### 📫 How to reach me:
-Feel free to reach out for collaborations or just for a chat.
-- Email: [shayaviv02@gmail.com]
 
 
