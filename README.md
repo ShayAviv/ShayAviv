@@ -1,14 +1,30 @@
-# Hi 👋, I'm Shay Aviv
+# Hello there 👋, I'm Shay Aviv!
 
-I'm a Cybersecurity Student from Israel 🇮🇱
+## 📚 IT and Cybersecurity Student
 
-- 🌱 I’m currently learning Cybersecurity, Programming, and DevOps
+I'm currently deepening my knowledge in **Networking**, **Ethical Hacking**, **SQL**, **Linux**, **Azure Microsoft**, and **Python**. Passionate about all things technology, I am on my way to becoming a cybersecurity expert.
 
-## Connect with me:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourLinkedInUsername/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourTwitterUsername)
+### 🛠 Skills
+- **Networking**: Configuring and managing network infrastructures.
+- **Hacking**: Performing vulnerability assessments and penetration testing.
+- **SQL**: Writing complex queries and managing databases.
+- **Linux**: Operating and maintaining Linux servers.
+- **Azure Microsoft**: Deploying and managing cloud services.
+- **Python**: Building scripts and automating tasks.
 
-## Languages and Tools:
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌱 I’m currently learning
+- Advanced network security protocols
+- Cloud security best practices
+- Python for cybersecurity
+
+### 🤝 Connect with me:
+- LinkedIn: [https://www.linkedin.com/in/shay-aviv-082a6828b/]
+
+### 📈 GitHub Stats
+![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayAviv&show_icons=true&theme=radical)
+
+### 📫 How to reach me:
+Feel free to reach out for collaborations or just for a chat.
+- Email: [shayaviv02@gmail.com]
+
+
