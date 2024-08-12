@@ -24,7 +24,7 @@ I'm currently deepening my knowledge in **Networking**, **Ethical Hacking**, **S
 - Python for cybersecurity
 
 ### 🤝 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/shay-aviv-082a6828b/
+- LinkedIn: https://www.linkedin.com/in/shayaviv/
 
 
 
